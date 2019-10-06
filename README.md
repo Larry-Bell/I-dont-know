@@ -1,2 +1,2 @@
-# I-dont-know
-Part one of the assignment for week 6
+This code takes the name of the user and their age and concatonates them into a sentence.
+The members of this 
