@@ -1,0 +1,5 @@
+x = input("What is your name?")
+print(x)
+y = input("How old are you?")
+print(y)
+print("My name is "+x+" and I am "+y+" years old")
